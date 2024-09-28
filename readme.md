@@ -1,12 +1,12 @@
 # 说明
 把 py windows的 uiautomation 转换成Android UiAutomatorViewer的xml文件 方便解析和查看 
 
-
-当前是获取3秒后最前端的View
+执行 UiAutomatorViewerParser.py
+获取3秒后最前端的View
 
 然后将生成的文件导入UiAutomatorViewer 
 即可得到一个更形象的显示
-![](result.png)
+![notepad的解析](./result.png)
 
 # 获取其它
 因为只是一个工具的工具，也就没有命令行执行只有简单的点击命令行运行
